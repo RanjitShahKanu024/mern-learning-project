@@ -3,7 +3,7 @@ import React from "react";
 const Navbar = () => {
   return (
     <nav>
-      <h1>🙋🏻‍♀️WELCOME TO THE 🙋🏻‍♂️</h1>
+      <h1>🙋🏻‍♀️ 🙋🏻‍♂️ WELCOME TO THE 🙋🏻‍♂️🙋🏻‍♀️</h1>
       <h1>My MERN App</h1>
       <form
         style={{
